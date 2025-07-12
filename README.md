@@ -1,5 +1,11 @@
 # Classificador de Emoções com Emojis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00.svg) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.x-orange.svg) 
+![Pandas](https://img.shields.io/badge/pandas-2.x-yellow.svg) 
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Projeto para classificar frases em emoções (alegria, tristeza, raiva, medo e amor) usando rede neural com TensorFlow/Keras e retornar um emoji correspondente.
 
 ---
@@ -16,6 +22,7 @@ Projeto para classificar frases em emoções (alegria, tristeza, raiva, medo e a
 
 ## Estrutura do projeto
 
+```text
 .
 ├── data/
 │ └── dataset.csv # Dataset com frases e emoções
@@ -30,6 +37,7 @@ Projeto para classificar frases em emoções (alegria, tristeza, raiva, medo e a
 ├── predict.py # Script para predição interativa
 ├── requirements.txt # Dependências do projeto
 └── README.md # Este arquivo
+```
 ---
 
 ## Como usar
