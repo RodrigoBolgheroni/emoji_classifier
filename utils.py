@@ -1,5 +1,5 @@
 emoji_map = {
-    "alegria": "😄",
+    "felicidade": "😄",
     "tristeza": "😢",
     "raiva": "😠",
     "medo": "😨",
@@ -7,4 +7,4 @@ emoji_map = {
 }
 
 def get_emoji(label):
-    return emoji_map.get(label, "❓")
+    return emoji_map.get(label.strip().lower(), "❓")
