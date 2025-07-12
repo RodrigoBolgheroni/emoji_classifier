@@ -1,116 +1,2031 @@
 frase,emocao
-"Estou radiante hoje!","alegria"
-"Me sinto vazio por dentro.","tristeza"
-"Isso é absolutamente inaceitável!","raiva"
-"Você é a luz da minha vida.","amor"
-"Tenho um medo paralisante do futuro.","medo"
-"Que dia maravilhoso para celebrar!","alegria"
-"Não encontro motivação para levantar da cama.","tristeza"
-"Estou furioso com essa situação!","raiva"
-"Meu coração bate mais forte por você.","amor"
-"O escuro me causa pânico.","medo"
-"Minha alma canta de felicidade!","alegria"
-"O silêncio da casa me dói.","tristeza"
-"Você me enlouquece de raiva!","raiva"
-"Sua presença aquece meu ser.","amor"
-"Sinto arrepios só de pensar nisso.","medo"
-"A vida sorri para mim hoje.","alegria"
-"Chove dentro do meu coração.","tristeza"
-"Não aguento mais essa injustiça!","raiva"
-"Nosso amor é meu porto seguro.","amor"
-"Meu corpo treme de ansiedade.","medo"
-"O sol brilha dentro de mim!","alegria"
-"Perdi o sentido de tudo.","tristeza"
-"Estou prestes a explodir de ódio!","raiva"
-"Você completa minha existência.","amor"
-"Tenho pesadelos todas as noites.","medo"
-"Sou grato por cada momento.","alegria"
-"Sinto-me invisível para o mundo.","tristeza"
-"Isso está me consumindo por dentro!","raiva"
-"Seu abraço é meu refúgio.","amor"
-"O desconhecido me aterroriza.","medo"
-"Pulso de alegria a cada instante!","alegria"
-"Minhas esperanças se esvaíram.","tristeza"
-"Chega! Não suporto mais!","raiva"
-"Seu sorriso ilumina meus dias.","amor"
-"Meu coração acelera sem controle.","medo"
-"O universo conspira a meu favor!","alegria"
-"Carrego um peso que não me pertence.","tristeza"
-"Você cruzou todos os meus limites!","raiva"
-"Amo você mais que palavras podem dizer.","amor"
-"Sinto que algo terrível vai acontecer.","medo"
-"Minha felicidade é contagiante!","alegria"
-"Nada mais tem gosto ou cor.","tristeza"
-"Estou fervendo de indignação!","raiva"
-"Você é meu maior presente.","amor"
-"Paraliso diante do perigo.","medo"
-"Hoje tudo faz sentido!","alegria"
-"O vazio dentro de mim cresce.","tristeza"
-"Você está me tirando do sério!","raiva"
-"Nosso amor é atemporal.","amor"
-"O medo me impede de respirar.","medo"
-"Minha alegria transborda!","alegria"
-"Sou uma sombra do que fui.","tristeza"
-"Isso é a gota d'água!","raiva"
-"Seu amor me transformou.","amor"
-"O pânico me domina completamente.","medo"
-"O mundo é um lugar lindo hoje!","alegria"
-"Afundo em um mar de tristeza.","tristeza"
-"Não mereço esse desrespeito!","raiva"
-"Você é meu sonho realizado.","amor"
-"Sinto arrepios só de ouvir barulhos.","medo"
-"Minha risada ecoa felicidade!","alegria"
-"Perdi a capacidade de sentir.","tristeza"
-"Estou cego de raiva!","raiva"
-"Você é meu porto seguro.","amor"
-"O futuro me apavora profundamente.","medo"
-"Pulso de entusiasmo a cada manhã!","alegria"
-"Nem as lágrimas aliviam minha dor.","tristeza"
-"Sua atitude foi imperdoável!","raiva"
-"Meu amor por você é infinito.","amor"
-"Travo diante de situações novas.","medo"
-"O sorriso não sai do meu rosto!","alegria"
-"Minha alma está em pedaços.","tristeza"
-"Cheguei ao meu limite!","raiva"
-"Você é a resposta das minhas preces.","amor"
-"Meu corpo congela de medo.","medo"
-"O dia está perfeito como eu!","alegria"
-"O vazio consome minha essência.","tristeza"
-"Você está brincando comigo?","raiva"
-"Nosso amor transcende tudo.","amor"
-"O escuro esconde meus maiores temores.","medo"
-"Minha felicidade é radiante!","alegria"
-"Afundo em um poço sem fundo.","tristeza"
-"Não acredito nessa falta de consideração!","raiva"
-"Você é meu maior tesouro.","amor"
-"O simples pensamento me paralisa.","medo"
-"O coração canta de alegria!","alegria"
-"Minha dor é silenciosa e profunda.","tristeza"
-"Estou vendo vermelho de raiva!","raiva"
-"Seu amor é minha força.","amor"
-"Meu pescoço tensiona com o medo.","medo"
-"Hoje acordei abençoado!","alegria"
-"Minha tristeza não tem nome.","tristeza"
-"Isso é o cúmulo do absurdo!","raiva"
-"Você é meu paraíso na Terra.","amor"
-"O medo me faz tremer incontrolavelmente.","medo"
-"Minha alegria é como um rio!","alegria"
-"Já não sei mais quem sou.","tristeza"
-"Estou saturado dessa situação!","raiva"
-"Nosso amor é minha maior vitória.","amor"
-"O coração acelera só de imaginar.","medo"
-"O sol dentro de mim não se põe!","alegria"
-"Minha alma está enevoada.","tristeza"
-"Não tenho mais paciência!","raiva"
-"Você é meu norte e meu sul.","amor"
-"Sinto um frio na espinha constante.","medo"
-"Minha felicidade é um furacão!","alegria"
-"Perdi o brilho nos olhos.","tristeza"
-"Você está abusando da minha paciência!","raiva"
-"Seu amor é meu oxigênio.","amor"
-"O medo me faz perder o fôlego.","medo"
-"Hoje sou pura gratidão!","alegria"
-"Minha tristeza é um oceano.","tristeza"
-"Estou a um passo de explodir!","raiva"
-"Você é meu lugar no mundo.","amor"
-"O simples pensamento me faz suar.","medo"
+A dor é um companheiro silencioso,tristeza
+O vazio em meu peito cresce a cada dia,tristeza
+Sinto que perdi o rumo da vida,tristeza
+As lágrimas caem sem motivo aparente,tristeza
+Meu coração está pesado de saudade,tristeza
+A solidão me abraça forte e não solta,tristeza
+Não encontro mais alegria em nada,tristeza
+A esperança parece ter desaparecido,tristeza
+Sinto um nó na garganta que não desfaz,tristeza
+O mundo parece cinza e sem cor,tristeza
+A melancolia se instalou em minha alma,tristeza
+Estou preso em um ciclo de tristeza profunda,tristeza
+Meu sorriso se tornou uma máscara vazia,tristeza
+A vida parece um fardo difícil de carregar,tristeza
+Lembranças dolorosas me assombram,tristeza
+Tudo que amo parece estar longe,tristeza
+Sinto que ninguém me entende de verdade,tristeza
+A escuridão me cobre lentamente,tristeza
+O passado é um lugar triste para visitar,tristeza
+Não tenho forças para seguir em frente,tristeza
+A vida me decepcionou mais uma vez,tristeza
+Meu espírito está quebrado,tristeza
+Perdi a fé no futuro,tristeza
+O silêncio ecoa minha dor interna,tristeza
+A tristeza é a única coisa que me define agora,tristeza
+Sinto que estou me afogando na amargura,tristeza
+O desespero bate à minha porta,tristeza
+As noites são longas e cheias de pesar,tristeza
+A alegria é um sentimento distante,tristeza
+Meu coração não consegue mais sentir nada,tristeza
+Estou cansado de lutar contra a dor,tristeza
+A realidade é muito dura para mim,tristeza
+A vida me tirou tudo que importava,tristeza
+O desânimo me consome por dentro,tristeza
+A solidão é uma ferida aberta,tristeza
+Me sinto abandonado por todos,tristeza
+O vazio me preenche por completo,tristeza
+A tristeza é minha sombra constante,tristeza
+A dor de existir é insuportável,tristeza
+As memórias me trazem lágrimas,tristeza
+Não vejo mais sentido em nada,tristeza
+O peso da minha alma é imenso,tristeza
+A vida perdeu o brilho,tristeza
+O sofrimento é o meu único amigo,tristeza
+A melancolia me prende em suas garras,tristeza
+O amanhã parece sombrio e incerto,tristeza
+Sinto que estou caindo sem parar,tristeza
+A vida me deu as costas,tristeza
+A tristeza é minha única verdade,tristeza
+O silêncio me mata lentamente,tristeza
+Sinto falta de quem eu era antes,tristeza
+A dor é uma companhia fiel,tristeza
+O medo de não ser feliz me paralisa,tristeza
+A desesperança me roubou a paz,tristeza
+O vazio me assusta mais que tudo,tristeza
+A tristeza é um oceano sem fim,tristeza
+A vida me trata com crueldade,tristeza
+O sofrimento não tem fim,tristeza
+Apenas sinto um grande vazio,tristeza
+A dor me consome dia e noite,tristeza
+A tristeza me segue onde quer que eu vá,tristeza
+Sinto que não pertenço a lugar algum,tristeza
+A vida é uma longa estrada de dor,tristeza
+A melancolia me envolve por inteiro,tristeza
+A cada passo sinto mais dor,tristeza
+A escuridão é minha única paisagem,tristeza
+A dor da perda é profunda,tristeza
+Não há mais cores na minha vida,tristeza
+A tristeza me transformou em ruínas,tristeza
+A vida me machucou muito,tristeza
+O sofrimento é meu destino,tristeza
+O vazio é tudo que me resta,tristeza
+A tristeza é um fardo pesado,tristeza
+A dor me define agora,tristeza
+A vida me abandonou,tristeza
+A melancolia é minha única companheira,tristeza
+O sofrimento é a única coisa que conheço,tristeza
+A dor é minha realidade constante,tristeza
+A vida é uma tragédia sem fim,tristeza
+A tristeza me consome,tristeza
+O vazio me devora,tristeza
+A vida é um deserto de esperança,tristeza
+O sofrimento é minha cruz,tristeza
+A tristeza me aprisionou,tristeza
+A dor é insuportável,tristeza
+A vida me derrotou,tristeza
+O vazio é meu futuro,tristeza
+A tristeza me roubou a vontade de viver,tristeza
+O sofrimento me esmaga,tristeza
+A dor é meu único sentimento,tristeza
+A vida é uma piada cruel,tristeza
+O vazio é meu lar,tristeza
+A tristeza é minha eterna companhia,tristeza
+O sofrimento não me dá trégua,tristeza
+A dor me acompanha sempre,tristeza
+A vida é uma prisão,tristeza
+A melancolia é minha sombra,tristeza
+O sofrimento é meu presente e futuro,tristeza
+A tristeza é minha identidade,tristeza
+O vazio é o meu tudo,tristeza
+A vida é uma jornada de dor,tristeza
+A dor me paralisa,tristeza
+O sofrimento é a única coisa real,tristeza
+O sol brilha mas não consigo sentir seu calor,tristeza
+As lágrimas secam mas a dor permanece,tristeza
+Sorrio por fora mas por dentro estou em pedaços,tristeza
+Ninguém vê o vazio que carrego no peito,tristeza
+As estrelas se apagaram e deixaram só escuridão,tristeza
+O tempo não cura só ensina a conviver com a dor,tristeza
+Minha alma está cansada de tanto sofrer,tristeza
+A solidão é minha única companhia,tristeza
+Chove lá fora e dentro do meu coração,tristeza
+Perdi-me no caminho e não sei voltar,tristeza
+Os dias se arrastam sem sentido,tristeza
+Nada mais tem o mesmo sabor,tristeza
+As palavras não saem só ficam presas na garganta,tristeza
+O eco da saudade dói mais que o silêncio,tristeza
+Meu coração virou pó e o vento levou,tristeza
+A esperança fugiu e não deixou rastro,tristeza
+Até o ar que respiro pesa,tristeza
+As lembranças são facas que não param de cortar,tristeza
+O ontem machuca e o amanhã assusta,tristeza
+Meus olhos já não brilham como antes,tristeza
+O amor foi embora e levou metade de mim,tristeza
+O relógio gira mas minha vida está parada,tristeza
+Sinto frio mesmo no calor do verão,tristeza
+Ninguém entende o peso que carrego,tristeza
+Minha voz some no vazio,tristeza
+A noite é longa e o sono não vem,tristeza
+O espelho reflete alguém que não reconheço,tristeza
+As flores murcham e eu junto com elas,tristeza
+O abraço mais apertado não tira a dor,tristeza
+O mundo gira feliz e eu fico parado,tristeza
+A música que antes alegrava agora machuca,tristeza
+O telefone não toca e ninguém me procura,tristeza
+As promessas viraram pó,tristeza
+O coração não obedece à razão,tristeza
+A cama é grande demais para quem dorme só,tristeza
+O café esfriou e eu também,tristeza
+A estrada é longa e eu estou sem forças,tristeza
+O riso dos outros dói,tristeza
+O passado assombra e o futuro amedronta,tristeza
+O vento leva meus sonhos embora,tristeza
+A chuva lava as ruas mas não minha alma,tristeza
+O silêncio grita mais alto,tristeza
+O abraço que não recebi ficou faltando,tristeza
+A noite não tem fim,tristeza
+O coração partido não para de sangrar,tristeza
+A felicidade é só uma lembrança distante,tristeza
+O tempo passa mas a dor não vai embora,tristeza
+O olhar vazio esconde um mar de tristeza,tristeza
+A casa está cheia mas me sinto sozinho,tristeza
+O adeus foi para sempre,tristeza
+O sol se põe e leva minha alegria,tristeza
+A vida perdeu as cores,tristeza
+O coração pesa mais que o mundo,tristeza
+A espera acabou mas você não voltou,tristeza
+O vazio é maior que eu,tristeza
+A dor não tem hora para chegar,tristeza
+O ontem dói e o hoje também,tristeza
+A noite é minha única amiga,tristeza
+O sorriso é só uma máscara,tristeza
+O amor virou cinzas,tristeza
+A primavera chegou mas não para mim,tristeza
+O coração não mente quando chora,tristeza
+A estrada é escura e eu estou perdido,tristeza
+O mar está calmo mas minha alma não,tristeza
+A saudade é um peso que não dá para carregar,tristeza
+O tempo não apaga só esconde,tristeza
+A lua brilha mas não para mim,tristeza
+O coração despedaçado não se cola,tristeza
+A vida seguiu e eu fiquei,tristeza
+O adeus foi sem volta,tristeza
+A dor é minha sombra,tristeza
+O riso é raro e a tristeza constante,tristeza
+A noite não acaba,tristeza
+O coração não para de doer,tristeza
+A esperança morreu,tristeza
+O vento uiva e eu junto,tristeza
+A solidão é minha rainha,tristeza
+O ontem pesa e o hoje sufoca,tristeza
+A vida perdeu o sentido,tristeza
+O amor foi só ilusão,tristeza
+A chuva cai e eu junto,tristeza
+O coração não engana,tristeza
+A noite é longa demais,tristeza
+O silêncio é meu pior inimigo,tristeza
+A dor não tem remédio,tristeza
+O tempo não traz alívio,tristeza
+A saudade é um fogo que não se apaga,tristeza
+O sol nasce mas não para mim,tristeza
+A vida é um filme triste,tristeza
+O coração não sabe mentir,tristeza
+A noite é fria e eu também,tristeza
+O amor acabou e eu também,tristeza
+A esperança se foi,tristeza
+O vento leva meu choro,tristeza
+A solidão é minha companheira,tristeza
+O passado não volta,tristeza
+A vida dói,tristeza
+O coração não se engana,tristeza
+A noite não tem fim,tristeza
+O silêncio é meu único amigo,tristeza
+A dor não tem nome,tristeza
+O tempo não cura,tristeza
+A saudade é um peso,tristeza
+O sol se esconde,tristeza
+A vida é vazia,tristeza
+O coração está partido,tristeza
+A noite é escura,tristeza
+O amor morreu,tristeza
+A esperança fugiu,tristeza
+O vento geme,tristeza
+A solidão consome,tristeza
+O passado machuca,tristeza
+A vida é triste,tristeza
+O coração sangra,tristeza
+A noite é eterna,tristeza
+O silêncio dói,tristeza
+A dor não passa,tristeza
+O tempo não ajuda,tristeza
+A saudade aperta,tristeza
+O sol não aquece,tristeza
+A vida é dura,tristeza
+O coração chora,tristeza
+A noite é fria,tristeza
+O amor acabou,tristeza
+A esperança sumiu,tristeza
+O vento chora,tristeza
+A solidão dói,tristeza
+O passado pesa,tristeza
+A vida é cinza,tristeza
+O coração desiste,tristeza
+A noite é triste,tristeza
+O silêncio machuca,tristeza
+A dor é forte,tristeza
+O tempo não volta,tristeza
+A saudade queima,tristeza
+O sol some,tristeza
+A vida é amarga,tristeza
+O coração para,tristeza
+A noite é longa,tristeza
+O amor some,tristeza
+A esperança some,tristeza
+O vento some,tristeza
+A solidão mata,tristeza
+O passado assusta,tristeza
+A vida é vã,tristeza
+O coração despedaça,tristeza
+A noite é escura,tristeza
+O silêncio é pesado,tristeza
+A dor é eterna,tristeza
+O tempo é lento,tristeza
+A dor é um oceano sem margens,tristeza
+O silêncio me consome por dentro,tristeza
+Meu coração está em pedaços,tristeza
+A solidão é minha única amiga,tristeza
+Não consigo encontrar a paz,tristeza
+A vida parece um sonho ruim,tristeza
+As lágrimas são meu idioma,tristeza
+A esperança me abandonou,tristeza
+Sinto um vazio que não se preenche,tristeza
+A escuridão me abraça,tristeza
+O passado é um fardo pesado,tristeza
+A alegria é uma lembrança distante,tristeza
+Não tenho mais vontade de lutar,tristeza
+A tristeza é minha sombra,tristeza
+Meu sorriso é apenas um disfarce,tristeza
+A vida me decepcionou mais uma vez,tristeza
+Estou perdido em minha própria mente,tristeza
+O futuro parece sombrio,tristeza
+A dor é constante e insuportável,tristeza
+A melancolia me domina,tristeza
+Sinto que ninguém se importa,tristeza
+O peso da existência é grande demais,tristeza
+A vida perdeu o sentido,tristeza
+A dor de existir é real,tristeza
+A solidão me esmaga,tristeza
+Não há luz no fim do túnel,tristeza
+A vida me quebrou,tristeza
+O desespero me acompanha,tristeza
+A tristeza me consome lentamente,tristeza
+Sinto que estou me afogando,tristeza
+A felicidade é uma ilusão,tristeza
+Meu coração sangra por dentro,tristeza
+A vida é cruel e implacável,tristeza
+A dor me define agora,tristeza
+O vazio ecoa em minha alma,tristeza
+A esperança é uma mentira,tristeza
+Estou cansado de sofrer,tristeza
+A vida me roubou a alegria,tristeza
+A tristeza é meu destino,tristeza
+Não vejo mais cores no mundo,tristeza
+A dor é minha única companhia,tristeza
+O silêncio é ensurdecedor,tristeza
+A vida é uma tragédia sem fim,tristeza
+A tristeza me aprisionou,tristeza
+Sinto que estou me perdendo,tristeza
+A dor me sufoca,tristeza
+O vazio é tudo que me resta,tristeza
+A vida me deu as costas,tristeza
+A melancolia me envolve,tristeza
+O sofrimento é meu lar,tristeza
+A dor da alma é a pior de todas,tristeza
+A vida é um deserto de esperança,tristeza
+A tristeza me transformou em ruínas,tristeza
+O peso da tristeza é insuportável,tristeza
+Não há escape para minha dor,tristeza
+A vida me traiu,tristeza
+A solidão me devora,tristeza
+O vazio me preenche por completo,tristeza
+A tristeza é minha única verdade,tristeza
+A dor é a minha realidade,tristeza
+A vida me abandonou,tristeza
+O sofrimento é a minha cruz,tristeza
+A tristeza me paralisa,tristeza
+A vida é uma jornada de dor,tristeza
+A dor me acompanha sempre,tristeza
+O vazio me consome,tristeza
+A tristeza é um fardo pesado,tristeza
+A vida me derrota a cada dia,tristeza
+O sofrimento não tem fim,tristeza
+A dor é meu único sentimento,tristeza
+A vida é uma prisão sem muros,tristeza
+A melancolia é minha sombra,tristeza
+A tristeza me roubou a vontade de viver,tristeza
+A vida me esmagou,tristeza
+A dor é insuportável,tristeza
+O vazio é meu futuro,tristeza
+A tristeza é minha identidade,tristeza
+A vida é uma piada cruel,tristeza
+O sofrimento é minha única certeza,tristeza
+A dor me define,tristeza
+A vida me destruiu,tristeza
+O vazio é meu tudo,tristeza
+A tristeza me consome por dentro,tristeza
+O sofrimento é a única coisa que conheço,tristeza
+A dor é meu companheiro fiel,tristeza
+A vida é uma dor constante,tristeza
+A tristeza é eterna,tristeza
+O vazio é o meu lar,tristeza
+A melancolia é meu destino,tristeza
+A dor me segue aonde vou,tristeza
+A vida é apenas sofrimento,tristeza
+A tristeza é meu presente,tristeza
+O vazio é a minha realidade,tristeza
+A dor me aprisionou,tristeza
+A vida me quebra em pedaços,tristeza
+O sofrimento me esmaga,tristeza
+A tristeza é um oceano de lágrimas,tristeza
+A dor me mata lentamente,tristeza
+A vida é uma batalha perdida,tristeza
+A melancolia me cobre,tristeza
+A tristeza é minha companhia,tristeza
+A dor é minha história,tristeza
+O vazio é o meu fim,tristeza
+A vida é uma ilusão triste,tristeza
+O sofrimento é meu legado,tristeza
+A tristeza me corrói,tristeza
+A dor me assombra,tristeza
+A vida é um pesadelo,tristeza
+A melancolia é minha verdade,tristeza
+O vazio é minha única certeza,tristeza
+A tristeza é minha prisão,tristeza
+A dor me prende,tristeza
+A vida é um tormento,tristeza
+O sofrimento é minha vida,tristeza
+A tristeza é tudo que sinto,tristeza
+A dor me queima,tristeza
+O vazio é o meu eco,tristeza
+A vida é uma jornada sem sentido,tristeza
+A melancolia é meu refúgio,tristeza
+A dor me consome,tristeza
+A tristeza é minha força,tristeza
+A vida é apenas dor,tristeza
+O vazio é meu horizonte,tristeza
+A dor é o meu amor,tristeza
+A tristeza é meu fardo,tristeza
+A vida é um labirinto de dor,tristeza
+O sofrimento me ensina,tristeza
+A dor é a minha essência,tristeza
+A tristeza é minha alma,tristeza
+A vida é um ciclo de dor,tristeza
+O vazio é meu tudo e meu nada,tristeza
+A dor é minha única alegria,tristeza
+A tristeza é minha única amiga,tristeza
+A vida é um caminho solitário,tristeza
+O sofrimento é minha rotina,tristeza
+A dor é meu oxigênio,tristeza
+A tristeza é minha única escolha,tristeza
+A vida é um rio de lágrimas,tristeza
+O vazio me habita,tristeza
+A dor é o meu destino,tristeza
+A tristeza é minha casa,tristeza
+A vida é uma sombra,tristeza
+O sofrimento é minha paz,tristeza
+A dor é minha fé,tristeza
+A tristeza é meu silêncio,tristeza
+A vida é um suspiro de dor,tristeza
+O vazio me faz companhia,tristeza
+A dor é meu futuro,tristeza
+A tristeza é meu presente,tristeza
+A vida é um eco de dor,tristeza
+O sofrimento é meu guia,tristeza
+A dor é minha razão de ser,tristeza
+A tristeza é meu amor,tristeza
+A vida é uma mentira,tristeza
+O vazio me esvazia,tristeza
+A dor me preenche,tristeza
+Me sinto sozinho,tristeza
+Nada faz sentido ultimamente,tristeza
+Hoje o dia parece mais cinza,tristeza
+Sinto que estou desaparecendo,tristeza
+Perdi a vontade de tentar,tristeza
+Tudo parece tão distante,tristeza
+As memórias me machucam,tristeza
+Sinto um vazio constante,tristeza
+O mundo parece tão frio,tristeza
+Não consigo parar de chorar,tristeza
+As noites são longas demais,tristeza
+Ninguém entende o que sinto,tristeza
+Estou preso no meu próprio pensamento,tristeza
+A solidão me consome devagar,tristeza
+Me sinto esquecido por todos,tristeza
+Queria que tudo fosse diferente,tristeza
+Minhas forças estão acabando,tristeza
+A saudade dói o tempo todo,tristeza
+Perdi meu rumo na vida,tristeza
+Nada me traz alegria mais,tristeza
+Estou cansado de fingir que está tudo bem,tristeza
+As lágrimas vêm sem motivo,tristeza
+Me sinto inútil,tristeza
+Estou desistindo aos poucos,tristeza
+Minha alma está em pedaços,tristeza
+Tudo me faz lembrar do que perdi,tristeza
+As dores doem mais à noite,tristeza
+Meu coração está quebrado,tristeza
+Não consigo mais sonhar,tristeza
+Sinto falta de quem eu era,tristeza
+A dor não passa,tristeza
+Queria sumir por um tempo,tristeza
+Ninguém se importa de verdade,tristeza
+Estou perdendo a esperança,tristeza
+Não tenho mais forças para sorrir,tristeza
+Tudo me sufoca,tristeza
+Me sinto um peso para todos,tristeza
+As palavras doem mais que silêncio,tristeza
+Estou cercado de gente mas me sinto só,tristeza
+As lembranças me atormentam,tristeza
+Queria voltar no tempo,tristeza
+Não vejo saída,tristeza
+Minha cabeça está cheia demais,tristeza
+Ninguém nota meu sofrimento,tristeza
+O tempo não cura como dizem,tristeza
+Sinto que falhei em tudo,tristeza
+A vida parece um fardo,tristeza
+Tudo é escuro ao meu redor,tristeza
+Queria desaparecer sem deixar rastros,tristeza
+As pessoas só me decepcionam,tristeza
+O silêncio grita dentro de mim,tristeza
+Sinto que não pertenço a lugar nenhum,tristeza
+Não aguento mais sorrir por obrigação,tristeza
+A tristeza me segue onde vou,tristeza
+A dor virou parte de mim,tristeza
+Não vejo cor nas coisas,tristeza
+Sinto falta de mim mesmo,tristeza
+Meu peito aperta o tempo inteiro,tristeza
+A angústia não me deixa respirar,tristeza
+Cada dia parece mais difícil,tristeza
+Estou me perdendo devagar,tristeza
+Tudo em mim está quebrado,tristeza
+Ninguém percebe o quanto sofro,tristeza
+Estou lutando mas não estou vencendo,tristeza
+Os dias passam mas nada melhora,tristeza
+Não consigo enxergar um futuro,tristeza
+Sinto que tudo está ruindo,tristeza
+Meu coração está cansado,tristeza
+A vida tem sido pesada demais,tristeza
+Tudo em mim dói,tristeza
+A tristeza virou rotina,tristeza
+Sinto como se estivesse afundando,tristeza
+O choro vem sem avisar,tristeza
+Estou me afastando de tudo,tristeza
+Queria fugir da realidade,tristeza
+As pessoas não entendem minha dor,tristeza
+Estou esgotado emocionalmente,tristeza
+Nada me motiva mais,tristeza
+Queria dormir e não acordar,tristeza
+Me sinto um fracasso,tristeza
+Não encontro paz em lugar nenhum,tristeza
+A solidão virou minha companhia,tristeza
+Me perdi de mim mesmo,tristeza
+Tudo que faço parece errado,tristeza
+Sinto que nunca vou ser suficiente,tristeza
+As coisas que amo perderam o brilho,tristeza
+Estou quebrado por dentro,tristeza
+Não sei mais quem sou,tristeza
+As dores antigas voltaram,tristeza
+A vida está me desgastando,tristeza
+Sinto como se estivesse vazio,tristeza
+Os sorrisos são todos falsos,tristeza
+Estou cercado de escuridão,tristeza
+Nada me preenche mais,tristeza
+Sinto falta de sentir alegria,tristeza
+Cada passo custa demais,tristeza
+O mundo me parece hostil,tristeza
+Não sei mais como continuar,tristeza
+A dor me acompanha sempre,tristeza
+Sinto que estou caindo,tristeza
+As palavras machucam muito,tristeza
+Queria entender o que está acontecendo,tristeza
+A vida perdeu o sabor,tristeza
+Estou me apagando aos poucos,tristeza
+Sinto saudade de tempos melhores,tristeza
+A vontade de desistir é constante,tristeza
+Estou cansado de recomeçar,tristeza
+Nada me satisfaz,tristeza
+Me sinto pequeno diante do mundo,tristeza
+Não vejo mais beleza nas coisas,tristeza
+Tudo é motivo para tristeza,tristeza
+Estou vivendo no automático,tristeza
+Sinto que estou preso em mim,tristeza
+A tristeza é constante e silenciosa,tristeza
+Meu coração está em silêncio,tristeza
+Não consigo mais me importar,tristeza
+Tudo que me resta é dor,tristeza
+Queria ter forças para mudar,tristeza
+A vida segue e eu fico para trás,tristeza
+Sinto que estou desaparecendo aos poucos,tristeza
+Tudo parece tão pesado,tristeza
+Não tenho vontade de sair da cama,tristeza
+As dores não têm fim,tristeza
+O peso é grande demais para suportar,tristeza
+A saudade é insuportável,tristeza
+Me sinto como um fantasma,tristeza
+As esperanças morreram,tristeza
+Estou tentando mas não está dando certo,tristeza
+Tudo é cinza na minha mente,tristeza
+O mundo gira e eu fico parado,tristeza
+Me afasto para não preocupar ninguém,tristeza
+Minhas lágrimas secaram,tristeza
+Sinto frio mesmo no calor,tristeza
+Não sou mais quem costumava ser,tristeza
+Tudo me fere,tristeza
+O passado me assombra,tristeza
+Cada lembrança dói mais,tristeza
+Não tenho mais ânimo para viver,tristeza
+O tempo só piora tudo,tristeza
+Me sinto invisível,tristeza
+Ninguém me nota de verdade,tristeza
+Queria poder gritar e ser ouvido,tristeza
+Estou à deriva,tristeza
+Sinto que tudo é perda,tristeza
+As noites me esmagam,tristeza
+Nada me consola,tristeza
+Perdi minha essência,tristeza
+Só queria paz,tristeza
+Estou cansado de lutar,tristeza
+O sol brilha em meu rosto,felicidade
+Meu coração está cheio de alegria,felicidade
+Sinto uma paz interior profunda,felicidade
+A vida é um presente valioso,felicidade
+Cada dia é uma nova bênção,felicidade
+A felicidade é simples e pura,felicidade
+O sorriso é o reflexo da minha alma,felicidade
+A gratidão me traz muita alegria,felicidade
+A vida é cheia de cores vibrantes,felicidade
+Sinto que posso conquistar o mundo,felicidade
+A leveza em meu ser é incrível,felicidade
+O futuro parece radiante e brilhante,felicidade
+Tudo está em perfeita harmonia,felicidade
+A alegria contagia todos ao redor,felicidade
+Encontrei a paz que procurava,felicidade
+A vida é maravilhosa,felicidade
+Meu espírito está livre e leve,felicidade
+A felicidade está nos pequenos detalhes,felicidade
+Estou em êxtase com a vida,felicidade
+Sinto uma alegria profunda,felicidade
+O mundo parece mais bonito hoje,felicidade
+A vida me surpreende a cada instante,felicidade
+O coração bate em ritmo de festa,felicidade
+A felicidade é meu estado de ser,felicidade
+Agradeço por cada momento,felicidade
+Estou radiante de contentamento,felicidade
+A vida é uma jornada feliz,felicidade
+A alegria é o meu guia,felicidade
+Meu dia está perfeito,felicidade
+Sinto uma energia positiva,felicidade
+A vida me sorri de volta,felicidade
+A felicidade é um abraço quente,felicidade
+Estou em paz comigo mesmo,felicidade
+A alegria de viver é imensa,felicidade
+O mundo é um lugar feliz,felicidade
+A vida é feita de momentos bons,felicidade
+Sinto-me completo e realizado,felicidade
+A felicidade é real,felicidade
+A vida é um canto de alegria,felicidade
+Estou vivendo plenamente,felicidade
+A alegria é minha única verdade,felicidade
+Meu coração está cheio de luz,felicidade
+A vida é uma doce surpresa,felicidade
+A felicidade é a melhor escolha,felicidade
+O riso é a minha melodia,felicidade
+A vida é linda e cheia de bênçãos,felicidade
+A alegria me impulsiona,felicidade
+Estou nas nuvens de felicidade,felicidade
+A vida é um milagre,felicidade
+Sinto-me abençoado,felicidade
+A felicidade me inspira,felicidade
+A vida é um presente,felicidade
+A alegria me aquece a alma,felicidade
+Estou feliz com o que sou,felicidade
+A felicidade é meu porto seguro,felicidade
+A vida é uma jornada feliz,felicidade
+A alegria me renova,felicidade
+Sinto um bem-estar total,felicidade
+A vida é um espetáculo,felicidade
+A felicidade é um estado de espírito,felicidade
+A alegria me fortalece,felicidade
+Meu coração está leve,felicidade
+A vida é uma dádiva,felicidade
+A felicidade é o caminho,felicidade
+A alegria é a chave,felicidade
+Estou muito grato,felicidade
+A felicidade é contagiante,felicidade
+A alegria me transforma,felicidade
+Sinto uma paz interior,felicidade
+A vida é uma festa,felicidade
+A felicidade é meu refúgio,felicidade
+A alegria me faz brilhar,felicidade
+Meu coração é puro contentamento,felicidade
+A vida é uma bênção,felicidade
+A felicidade é o que me move,felicidade
+A alegria é minha razão de ser,felicidade
+Estou em êxtase,felicidade
+A vida é um paraíso,felicidade
+A felicidade me protege,felicidade
+A alegria me guia,felicidade
+Sinto-me realizado,felicidade
+A vida é um sonho bom,felicidade
+A felicidade é real e palpável,felicidade
+A alegria me ilumina,felicidade
+Meu coração está em festa,felicidade
+A vida é um presente incrível,felicidade
+A felicidade é a melhor sensação,felicidade
+A alegria me enche de vida,felicidade
+Sinto-me livre e feliz,felicidade
+A vida é maravilhosa e cheia de luz,felicidade
+A felicidade é a resposta,felicidade
+A alegria é a verdade,felicidade
+Estou vivendo o sonho,felicidade
+A vida é pura felicidade,felicidade
+A felicidade me faz voar,felicidade
+A alegria é o meu poder,felicidade
+Meu coração está leve e solto,felicidade
+A vida é um mar de alegria,felicidade
+A felicidade é o meu destino,felicidade
+A alegria me rodeia,felicidade
+Sinto uma paz que acalma,felicidade
+A vida é um presente,felicidade
+A felicidade está dentro de mim,felicidade
+A alegria é meu escudo,felicidade
+Estou no topo do mundo,felicidade
+A vida é uma jornada feliz,felicidade
+A felicidade é o meu lar,felicidade
+A alegria é a minha força,felicidade
+Meu coração está em paz,felicidade
+A vida é um sopro de alegria,felicidade
+A felicidade é o meu caminho,felicidade
+A alegria é a minha canção,felicidade
+Hoje acordei com o coração leve,felicidade
+Sorrir tem sido fácil ultimamente,felicidade
+Me sinto em paz com a vida,felicidade
+Cada dia tem sido uma bênção,felicidade
+A alegria tomou conta de mim,felicidade
+Tudo está dando certo,felicidade
+Me sinto grato por tudo,felicidade
+O sol parece mais bonito hoje,felicidade
+Meus sonhos estão se realizando,felicidade
+Sinto amor em cada detalhe do dia,felicidade
+As pequenas coisas me fazem sorrir,felicidade
+Tenho motivos para agradecer,felicidade
+Estou rodeado de boas energias,felicidade
+A vida tem me surpreendido positivamente,felicidade
+Estou vivendo momentos incríveis,felicidade
+Tudo parece estar no lugar certo,felicidade
+Me sinto mais forte a cada dia,felicidade
+Sinto que tudo é possível,felicidade
+A vida está cheia de boas surpresas,felicidade
+Estou cercado por pessoas incríveis,felicidade
+A paz interior me encontrou,felicidade
+O riso vem fácil e sincero,felicidade
+Estou me redescobrindo de forma leve,felicidade
+Tenho orgulho da minha jornada,felicidade
+O amor está presente em tudo,felicidade
+Me sinto completo,felicidade
+A beleza da vida está nos detalhes,felicidade
+Estou cercado de boas notícias,felicidade
+Cada dia é uma nova oportunidade,felicidade
+Me sinto vivo como nunca,felicidade
+Estou aproveitando cada momento,felicidade
+A gratidão me guia,felicidade
+O futuro parece promissor,felicidade
+Meu coração está em festa,felicidade
+Tudo está fluindo como deveria,felicidade
+Tenho sorrido sem razão,felicidade
+A felicidade está nos gestos simples,felicidade
+A vida tem um sabor especial hoje,felicidade
+Estou cercado de amor verdadeiro,felicidade
+Me sinto acolhido pelo universo,felicidade
+O presente tem sido generoso,felicidade
+A leveza tomou conta de mim,felicidade
+O dia começou com boas vibrações,felicidade
+Meu coração transborda gratidão,felicidade
+A vida tem sido gentil comigo,felicidade
+Sinto paz em cada passo que dou,felicidade
+O tempo está passando do jeito certo,felicidade
+Tenho mais motivos para sorrir do que chorar,felicidade
+Estou exatamente onde queria estar,felicidade
+Sinto orgulho das minhas conquistas,felicidade
+Meu dia foi cheio de alegrias,felicidade
+Me sinto conectado com a vida,felicidade
+As boas energias estão por toda parte,felicidade
+A felicidade mora dentro de mim,felicidade
+Me sinto realizado,felicidade
+Tudo tem um brilho especial,felicidade
+Hoje tudo parece possível,felicidade
+O mundo parece mais bonito,felicidade
+As pessoas ao meu redor me inspiram,felicidade
+Sinto que estou no caminho certo,felicidade
+As coisas boas estão acontecendo,felicidade
+O amor próprio me fortalece,felicidade
+A vida tem me tratado bem,felicidade
+Me sinto abençoado,felicidade
+Cada detalhe do dia me anima,felicidade
+As cores parecem mais vivas,felicidade
+Estou vivendo o agora com alegria,felicidade
+Tenho muitos motivos para comemorar,felicidade
+Meu sorriso está mais sincero,felicidade
+A felicidade está em mim e ao meu redor,felicidade
+Tudo está mais leve,felicidade
+Me sinto inspirado,felicidade
+A paz tem sido constante,felicidade
+Sinto uma alegria que não cabe em palavras,felicidade
+Me sinto em casa comigo mesmo,felicidade
+O amor está em tudo que vejo,felicidade
+A vida tem sido uma aventura feliz,felicidade
+O som do mundo é mais bonito hoje,felicidade
+A felicidade chegou sem avisar,felicidade
+Me sinto em equilíbrio,felicidade
+Estou rodeado de boas memórias,felicidade
+Tudo parece harmonioso,felicidade
+Sinto orgulho de quem estou me tornando,felicidade
+A esperança me move,felicidade
+O carinho das pessoas me emociona,felicidade
+Me sinto cercado de ternura,felicidade
+A bondade das pessoas me alegra,felicidade
+Meu coração está em paz,felicidade
+Tenho encontrado motivos para sorrir,felicidade
+A natureza me acalma e me inspira,felicidade
+Sinto que estou florescendo,felicidade
+A felicidade me encontrou,felicidade
+Estou em sintonia com o universo,felicidade
+A fé tem me sustentado,felicidade
+A felicidade está em cada detalhe do dia,felicidade
+Me sinto leve como o vento,felicidade
+Cada respiração é um presente,felicidade
+O brilho do dia me contagia,felicidade
+A alegria é contagiante,felicidade
+A vida é mais bonita quando sorrimos,felicidade
+O amor é a minha motivação,felicidade
+Sinto que estou crescendo com leveza,felicidade
+A paz me acompanha,felicidade
+O bem-estar faz parte da minha rotina,felicidade
+Tenho recebido muitas bênçãos,felicidade
+Meu caminho está iluminado,felicidade
+As boas notícias chegaram,felicidade
+Estou colhendo frutos do bem,felicidade
+A vida é um presente constante,felicidade
+Sinto que mereço cada alegria,felicidade
+A positividade é minha aliada,felicidade
+A felicidade mora nos pequenos momentos,felicidade
+A leveza faz morada em mim,felicidade
+O amor está presente em cada gesto,felicidade
+Me sinto inteiro e em paz,felicidade
+A vida me abraça com carinho,felicidade
+Meu coração pulsa com alegria,felicidade
+Sinto orgulho das minhas escolhas,felicidade
+Me sinto valorizado e amado,felicidade
+O dia foi cheio de boas surpresas,felicidade
+O universo conspira a meu favor,felicidade
+Estou vibrando em alta frequência,felicidade
+A energia do bem me rodeia,felicidade
+Meu sorriso é verdadeiro,felicidade
+Me sinto renovado,felicidade
+A alegria mora em mim,felicidade
+Estou colhendo coisas boas,felicidade
+A paz invadiu meu coração,felicidade
+A vida está no seu melhor momento,felicidade
+Cada passo me aproxima dos meus sonhos,felicidade
+A felicidade está em cada amanhecer,felicidade
+A leveza está nos meus pensamentos,felicidade
+Tudo faz sentido agora,felicidade
+Me sinto parte de algo especial,felicidade
+A bondade voltou a me visitar,felicidade
+Sinto que estou fazendo a coisa certa,felicidade
+A alegria se espalha por onde passo,felicidade
+Hoje tudo parece estar no lugar,felicidade
+A luz dentro de mim está forte,felicidade
+O sorriso de quem amo me alegra,felicidade
+A felicidade chegou e ficou,felicidade
+O carinho me preenche por completo,felicidade
+As coisas boas estão apenas começando,felicidade
+Tenho vivido dias incríveis,felicidade
+A paz tem sido minha maior conquista,felicidade
+Estou cercado de tudo que me faz bem,felicidade
+A simplicidade da vida me faz feliz,felicidade
+A vida é um presente que abraço,felicidade
+Meu dia começou com um sorriso,felicidade
+Sinto uma alegria que me preenche,felicidade
+A felicidade é uma escolha diária,felicidade
+O momento presente é perfeito,felicidade
+Estou vivendo o meu sonho,felicidade
+O coração bate em ritmo de paz,felicidade
+A gratidão transforma meu olhar,felicidade
+O mundo é um lugar cheio de luz,felicidade
+Sinto uma conexão com a natureza,felicidade
+A leveza me acompanha sempre,felicidade
+O futuro me espera com abraços,felicidade
+Tudo flui com harmonia,felicidade
+A alegria é a minha energia,felicidade
+Encontrei a beleza em cada detalhe,felicidade
+A vida me acolhe com carinho,felicidade
+Meu espírito está em festa,felicidade
+A felicidade é o ar que respiro,felicidade
+Estou em êxtase com a simplicidade,felicidade
+Apenas sinto uma gratidão imensa,felicidade
+O mundo parece um jardim hoje,felicidade
+A vida me ensina a sorrir,felicidade
+O coração está em plena celebração,felicidade
+A felicidade é meu lar,felicidade
+Agradeço por ser quem sou,felicidade
+Estou radiante de vida,felicidade
+A vida é um presente mágico,felicidade
+A alegria é o meu mapa,felicidade
+Meu dia está cheio de bênçãos,felicidade
+Sinto uma positividade crescente,felicidade
+A vida me guia para o bem,felicidade
+A felicidade é o melhor remédio,felicidade
+Estou em paz com o universo,felicidade
+A alegria de viver é contagiante,felicidade
+O mundo é um lugar acolhedor,felicidade
+A vida é feita de momentos felizes,felicidade
+Sinto-me completo e feliz,felicidade
+A felicidade é uma realidade,felicidade
+A vida é um poema de alegria,felicidade
+Estou vivendo com propósito,felicidade
+A alegria é minha única verdade,felicidade
+Meu coração está cheio de cores,felicidade
+A vida é uma jornada de amor,felicidade
+A felicidade é a melhor opção,felicidade
+O riso é o som da minha alma,felicidade
+A vida é bela e gentil,felicidade
+A alegria me sustenta,felicidade
+Estou no paraíso,felicidade
+A vida é um milagre vivo,felicidade
+Sinto-me protegido e amado,felicidade
+A felicidade me ilumina,felicidade
+A vida é um presente,felicidade
+A alegria me aquece,felicidade
+Estou feliz com minhas conquistas,felicidade
+A felicidade é meu escudo,felicidade
+A vida é um doce,felicidade
+A alegria me renova a cada amanhecer,felicidade
+Sinto um bem-estar total,felicidade
+A vida é um espetáculo,felicidade
+A felicidade é um estado de graça,felicidade
+A alegria me fortalece,felicidade
+Meu coração está leve,felicidade
+A vida é uma dádiva,felicidade
+A felicidade é a rota,felicidade
+A alegria é a chave,felicidade
+Estou muito grato pela vida,felicidade
+A felicidade é o meu caminho,felicidade
+A alegria me transforma,felicidade
+Sinto uma paz interior que me acalma,felicidade
+A vida é uma festa,felicidade
+A felicidade é meu refúgio,felicidade
+A alegria me faz brilhar,felicidade
+Meu coração é puro contentamento,felicidade
+A vida é uma bênção,felicidade
+A felicidade é o que me move,felicidade
+A alegria é minha razão de ser,felicidade
+Estou em êxtase,felicidade
+A vida é um paraíso,felicidade
+A felicidade me protege,felicidade
+A alegria me guia,felicidade
+Sinto-me realizado,felicidade
+A vida é um sonho bom,felicidade
+A felicidade é real e palpável,felicidade
+A alegria me ilumina,felicidade
+Meu coração está em festa,felicidade
+A vida é um presente incrível,felicidade
+A felicidade é a melhor sensação,felicidade
+A alegria me enche de vida,felicidade
+Sinto-me livre e feliz,felicidade
+A vida é maravilhosa e cheia de luz,felicidade
+A felicidade é a resposta,felicidade
+A alegria é a verdade,felicidade
+Estou vivendo o sonho,felicidade
+A vida é pura felicidade,felicidade
+A felicidade me faz voar,felicidade
+A alegria é o meu poder,felicidade
+Meu coração está leve e solto,felicidade
+A vida é um mar de alegria,felicidade
+A felicidade é o meu destino,felicidade
+A alegria me rodeia,felicidade
+Sinto uma paz que acalma,felicidade
+A vida é um presente,felicidade
+A felicidade está dentro de mim,felicidade
+A alegria é meu escudo,felicidade
+Estou no topo do mundo,felicidade
+A vida é uma jornada feliz,felicidade
+A felicidade é o meu lar,felicidade
+A alegria é a minha força,felicidade
+Meu coração está em paz,felicidade
+A vida é um sopro de alegria,felicidade
+A felicidade é o meu caminho,felicidade
+A alegria é a minha canção,felicidade
+Acordei com vontade de viver o dia,felicidade
+O céu está lindo e me inspira,felicidade
+Meu coração está tranquilo,felicidade
+A energia do dia está maravilhosa,felicidade
+Hoje estou rodeado de boas vibrações,felicidade
+Estou aproveitando cada segundo,felicidade
+Tudo está leve ao meu redor,felicidade
+A positividade me acompanha,felicidade
+Estou cercado de sorrisos verdadeiros,felicidade
+A paz que sinto é imensa,felicidade
+O dia começou com um abraço,felicidade
+Sinto orgulho de quem me tornei,felicidade
+A alegria me encontrou novamente,felicidade
+Hoje estou mais forte e mais feliz,felicidade
+Estou grato por tudo que conquistei,felicidade
+A felicidade me envolve por completo,felicidade
+A luz do sol me enche de esperança,felicidade
+A vida está sorrindo para mim,felicidade
+Meus amigos me fazem bem,felicidade
+A presença de quem amo me fortalece,felicidade
+Estou cercado de amor verdadeiro,felicidade
+Hoje meu coração está em festa,felicidade
+Tudo parece estar se encaixando,felicidade
+A serenidade me preenche,felicidade
+O dia está repleto de boas surpresas,felicidade
+Meu sorriso é espontâneo,felicidade
+As boas lembranças me visitam,felicidade
+Estou com o coração em paz,felicidade
+A felicidade está presente em tudo,felicidade
+Me sinto renovado por dentro,felicidade
+A vida me presenteou com alegria,felicidade
+Tudo está mais bonito hoje,felicidade
+A simplicidade do dia me encanta,felicidade
+Sinto gratidão em cada detalhe,felicidade
+A alegria é constante no meu peito,felicidade
+Tenho vontade de abraçar o mundo,felicidade
+Estou vivendo o melhor momento,felicidade
+Me sinto seguro e tranquilo,felicidade
+A fé me guia com amor,felicidade
+O presente tem sido generoso,felicidade
+A natureza me inspira e acalma,felicidade
+Me sinto protegido pelo universo,felicidade
+A felicidade chegou sem esforço,felicidade
+O vento leve me traz paz,felicidade
+Cada passo tem mais firmeza,felicidade
+Meu coração vibra com boas notícias,felicidade
+O sorriso das pessoas me alegra,felicidade
+Estou rodeado de carinho,felicidade
+A bondade está em cada gesto,felicidade
+Me sinto em sintonia com tudo,felicidade
+A alegria me invade ao acordar,felicidade
+A tranquilidade se faz presente,felicidade
+O mundo parece mais acolhedor,felicidade
+Me sinto cheio de vida,felicidade
+Estou colhendo frutos de amor,felicidade
+A cada dia me sinto mais feliz,felicidade
+Estou fervendo de ódio,raiva
+Meu sangue está a ponto de explodir,raiva
+Não aguento mais essa situação,raiva
+A frustração me consome por dentro,raiva
+Sinto um calor intenso de fúria,raiva
+Quebrou minha paciência,raiva
+Estou furioso com o que aconteceu,raiva
+Meus punhos estão cerrados,raiva
+A raiva me cega,raiva
+Não posso acreditar na sua atitude,raiva
+Isso me tira do sério,raiva
+Sinto um desprezo profundo,raiva
+A injustiça me revolta,raiva
+Meu coração está em chamas,raiva
+Estou perdendo o controle,raiva
+Sua falsidade me enoja,raiva
+A vontade é de gritar,raiva
+A fúria me domina,raiva
+Não me provoque mais,raiva
+Estou à beira do ataque,raiva
+Minha cabeça vai explodir,raiva
+A raiva me queima,raiva
+Não tolero essa falta de respeito,raiva
+Sinto vontade de quebrar tudo,raiva
+Essa situação é revoltante,raiva
+A fúria é meu combustível,raiva
+Estou no meu limite,raiva
+Meu corpo treme de raiva,raiva
+Não consigo me acalmar,raiva
+Isso é inaceitável,raiva
+O ódio me cega,raiva
+Não suporto mais ouvir isso,raiva
+A raiva me paralisa,raiva
+Estou com nojo dessa mentira,raiva
+Meu temperamento está no topo,raiva
+Não me peça calma,raiva
+A raiva é minha única emoção,raiva
+Sinto uma fúria incontrolável,raiva
+Isso me deixa louco,raiva
+A paciência acabou,raiva
+A raiva me sufoca,raiva
+Estou cansado de ser tratado assim,raiva
+Isso é uma afronta,raiva
+A raiva está no meu peito,raiva
+Não vou perdoar isso,raiva
+Estou possesso de raiva,raiva
+A raiva me cega para tudo,raiva
+Isso me dá nojo,raiva
+A fúria me consome,raiva
+Não me atrevo a falar,raiva
+Estou prestes a explodir,raiva
+A raiva é minha sombra,raiva
+Sinto um ódio crescente,raiva
+A raiva me faz mal,raiva
+Não posso acreditar nisso,raiva
+Estou em um estado de raiva pura,raiva
+A raiva é minha verdade,raiva
+Isso é ridículo,raiva
+A raiva me domina,raiva
+Não quero te ver mais,raiva
+Estou fora de mim,raiva
+A raiva me transforma,raiva
+Sinto um desprezo,raiva
+A raiva é meu veneno,raiva
+Não há mais nada a dizer,raiva
+Estou cheio de raiva,raiva
+A raiva me destrói,raiva
+Isso é intolerável,raiva
+A raiva me domina,raiva
+Não posso me acalmar,raiva
+Estou com raiva,raiva
+A raiva me paralisa,raiva
+Isso é inaceitável,raiva
+A raiva me consome,raiva
+Não suporto mais,raiva
+Estou no meu limite,raiva
+A raiva me queima,raiva
+Isso é revoltante,raiva
+A raiva me cega,raiva
+Não me peça calma,raiva
+Estou furioso,raiva
+A raiva é minha única emoção,raiva
+Sinto uma fúria incontrolável,raiva
+Isso me deixa louco,raiva
+A paciência acabou,raiva
+A raiva me sufoca,raiva
+Estou cansado de ser tratado assim,raiva
+Isso é uma afronta,raiva
+A raiva está no meu peito,raiva
+Não vou perdoar isso,raiva
+Estou possesso de raiva,raiva
+A raiva me cega para tudo,raiva
+Isso me dá nojo,raiva
+A fúria me consome,raiva
+Não me atrevo a falar,raiva
+Estou prestes a explodir,raiva
+A raiva é minha sombra,raiva
+Sinto um ódio crescente,raiva
+A raiva me faz mal,raiva
+Não posso acreditar nisso,raiva
+Estou em um estado de raiva pura,raiva
+A raiva é minha verdade,raiva
+Isso é ridículo,raiva
+A raiva me domina,raiva
+Não quero te ver mais,raiva
+Estou fora de mim,raiva
+A raiva me transforma,raiva
+Sinto um desprezo,raiva
+A raiva é meu veneno,raiva
+Não há mais nada a dizer,raiva
+Estou cheio de raiva,raiva
+A raiva me destrói,raiva
+Isso é intolerável,raiva
+Estou à beira do colapso,raiva
+A fúria me cega completamente,raiva
+Não me toque agora,raiva
+Isso é uma afronta pessoal,raiva
+Minha paciência se esgotou,raiva
+Sinto uma raiva que me consome,raiva
+A injustiça me tira do sério,raiva
+Quero explodir de frustração,raiva
+Não aguento mais suas mentiras,raiva
+A raiva me deixa sem ar,raiva
+Estou tremendo de ódio,raiva
+Você me tirou a paz,raiva
+A vontade é de gritar alto,raiva
+Sua atitude é inaceitável,raiva
+Estou cheio de ressentimento,raiva
+A raiva me transforma em outra pessoa,raiva
+Isso é revoltante,raiva
+Não há perdão para isso,raiva
+Sinto um desprezo profundo,raiva
+A raiva é minha única companhia,raiva
+Estou no limite do meu controle,raiva
+A vida me irrita hoje,raiva
+Sinto que vou perder a cabeça,raiva
+A raiva me faz mal,raiva
+Não suporto mais essa situação,raiva
+Estou com nojo de tudo,raiva
+A fúria me queima por dentro,raiva
+Isso é um insulto,raiva
+A raiva é meu veneno,raiva
+Não consigo pensar direito,raiva
+Estou possuído pela raiva,raiva
+A raiva me cega para o bom senso,raiva
+Isso é ridículo,raiva
+A raiva me domina,raiva
+Não me atrevo a falar,raiva
+Estou a ponto de explodir,raiva
+A raiva é minha sombra,raiva
+Sinto um ódio crescente,raiva
+A raiva me deixa louco,raiva
+Não posso acreditar nisso,raiva
+Estou em um estado de raiva pura,raiva
+A raiva é minha verdade,raiva
+Isso me dá nojo,raiva
+A raiva me consome,raiva
+Não quero te ver mais,raiva
+Estou fora de mim,raiva
+A raiva me transforma,raiva
+Sinto um desprezo,raiva
+A raiva é meu veneno,raiva
+Não há mais nada a dizer,raiva
+Estou cheio de raiva,raiva
+A raiva me destrói,raiva
+Isso é intolerável,raiva
+A raiva me domina,raiva
+Não posso me acalmar,raiva
+Estou com raiva,raiva
+A raiva me paralisa,raiva
+Isso é inaceitável,raiva
+A raiva me consome,raiva
+Não suporto mais,raiva
+Estou no meu limite,raiva
+A raiva me queima,raiva
+Isso é revoltante,raiva
+A raiva me cega,raiva
+Não me peça calma,raiva
+Estou furioso,raiva
+A raiva é minha única emoção,raiva
+Sinto uma fúria incontrolável,raiva
+Isso me deixa louco,raiva
+A paciência acabou,raiva
+A raiva me sufoca,raiva
+Estou cansado de ser tratado assim,raiva
+Isso é uma afronta,raiva
+A raiva está no meu peito,raiva
+Não vou perdoar isso,raiva
+Estou possesso de raiva,raiva
+A raiva me cega para tudo,raiva
+Isso me dá nojo,raiva
+A fúria me consome,raiva
+Não me atrevo a falar,raiva
+Estou prestes a explodir,raiva
+A raiva é minha sombra,raiva
+Sinto um ódio crescente,raiva
+A raiva me faz mal,raiva
+Não posso acreditar nisso,raiva
+Estou em um estado de raiva pura,raiva
+A raiva é minha verdade,raiva
+Isso é ridículo,raiva
+A raiva me domina,raiva
+Não quero te ver mais,raiva
+Estou fora de mim,raiva
+A raiva me transforma,raiva
+Sinto um desprezo,raiva
+A raiva é meu veneno,raiva
+Não há mais nada a dizer,raiva
+Estou cheio de raiva,raiva
+A raiva me destrói,raiva
+Isso é intolerável,raiva
+A raiva me domina,raiva
+Não posso me acalmar,raiva
+Estou com raiva,raiva
+A raiva me paralisa,raiva
+Isso é inaceitável,raiva
+A raiva me consome,raiva
+Não suporto mais,raiva
+Estou no meu limite,raiva
+Estou cansado de ser ignorado,raiva
+Ninguém me escuta quando falo,raiva
+Essa situação me tira do sério,raiva
+Já perdi a paciência com tudo,raiva
+As pessoas só sabem me irritar,raiva
+Sinto que estou prestes a explodir,raiva
+Estou cheio de falsidade ao meu redor,raiva
+As coisas nunca saem como planejo,raiva
+Nada funciona como deveria,raiva
+O descaso me enfurece,raiva
+A injustiça me deixa revoltado,raiva
+Não aguento mais ser passado para trás,raiva
+Essa demora me deixa louco,raiva
+Falar com certas pessoas me esgota,raiva
+A hipocrisia me dá nojo,raiva
+Sinto vontade de gritar com o mundo,raiva
+As mentiras me destroem por dentro,raiva
+Estou cheio de promessas vazias,raiva
+As pessoas abusam da minha paciência,raiva
+Não aceito ser tratado desse jeito,raiva
+Estou farto de esperar por respeito,raiva
+Não tolero mais esse comportamento,raiva
+Tudo que faço é ignorado,raiva
+Me sinto usado e descartado,raiva
+A raiva está me consumindo,raiva
+Estou explodindo por dentro,raiva
+Cada dia me irrita mais,raiva
+Estou perdendo o controle de tudo,raiva
+Ninguém entende o quanto isso me afeta,raiva
+Estou preso num ciclo de frustração,raiva
+Sinto vontade de sumir só de raiva,raiva
+A forma como falam comigo me incomoda,raiva
+O desprezo que recebo me destrói,raiva
+As atitudes dos outros me enojam,raiva
+Estou cansado de repetir sempre as mesmas coisas,raiva
+Tudo o que escuto é desculpa,raiva
+Não suporto mais essa situação,raiva
+Minha paciência tem limite,raiva
+Estou no meu limite emocional,raiva
+Cada palavra falsa me fere,raiva
+Queria poder mandar todos calarem a boca,raiva
+Não é justo o que estão fazendo comigo,raiva
+Estou cansado de ser o bonzinho,raiva
+A raiva está me dominando,raiva
+Ninguém liga para o que eu sinto,raiva
+Me tratam como se eu fosse invisível,raiva
+Não vou mais fingir que está tudo bem,raiva
+Estou pronto para quebrar tudo,raiva
+Essa discussão me tira o sono,raiva
+A frieza das pessoas me fere,raiva
+Estou cheio de desrespeito,raiva
+Meus limites foram ultrapassados,raiva
+Estou cansado de tanta falsidade,raiva
+As críticas vazias me machucam,raiva
+Não aguento mais engolir sapos,raiva
+Estou fervendo de tanta raiva,raiva
+O silêncio forçado me irrita,raiva
+As promessas quebradas me destroem,raiva
+Me sinto ridicularizado,raiva
+Essa situação é inaceitável,raiva
+Nada parece justo nessa história,raiva
+Cansei de ser o último a ser lembrado,raiva
+As provocações me tiram do sério,raiva
+Não suporto mais a falta de empatia,raiva
+O egoísmo das pessoas me revolta,raiva
+Não aceito ser feito de bobo,raiva
+Estou cansado de aguentar calado,raiva
+As atitudes alheias me afetam demais,raiva
+Me sinto excluído de propósito,raiva
+A raiva me faz querer sumir,raiva
+Estou sendo pressionado até explodir,raiva
+Ninguém valoriza o que faço,raiva
+A indiferença me consome,raiva
+Queria bater de frente com todos,raiva
+A falta de consideração é revoltante,raiva
+Tudo está desmoronando e ninguém se importa,raiva
+Estou sufocado por tanta raiva,raiva
+Ninguém me respeita como deveria,raiva
+Cansei de ser compreensivo,raiva
+A decepção virou ódio,raiva
+O descaso virou revolta,raiva
+Me ignoram como se eu fosse nada,raiva
+Não quero mais fingir que estou calmo,raiva
+Minha paciência se esgotou,raiva
+Sinto ódio quando lembro do que fizeram,raiva
+As promessas quebradas me marcaram,raiva
+Quero distância de gente falsa,raiva
+Estou à beira de um ataque de nervos,raiva
+Não consigo mais esconder minha irritação,raiva
+Me arrependo de confiar em certas pessoas,raiva
+O desprezo que recebi virou raiva,raiva
+A insensibilidade me revolta,raiva
+Sinto ódio por tudo que perdi,raiva
+As palavras duras ainda ecoam em mim,raiva
+Estou no limite da minha sanidade,raiva
+Queria poder sumir só para não explodir,raiva
+A raiva virou minha companhia,raiva
+Me sinto ignorado por quem mais importava,raiva
+As atitudes dos outros me fazem mal,raiva
+Me sinto enganado e traído,raiva
+Estou irritado com tudo,raiva
+Nada do que faço é suficiente,raiva
+A frustração está me matando,raiva
+A raiva tem sido constante,raiva
+Estou cansado de correr atrás,raiva
+A falta de retorno me enlouquece,raiva
+Me sinto ofendido o tempo todo,raiva
+A ingratidão me deixa doente,raiva
+Sinto que todos estão contra mim,raiva
+Não suporto mais ser ignorado,raiva
+Tudo que ouço me irrita,raiva
+Estou carregando um peso que não é meu,raiva
+As palavras malditas não saem da minha cabeça,raiva
+Não quero mais manter a calma,raiva
+Tudo ao meu redor me estressa,raiva
+Estou cansado de dar o melhor por nada,raiva
+Ninguém me leva a sério,raiva
+Cansei de ser compreensivo com quem não merece,raiva
+A mágoa virou raiva com o tempo,raiva
+Não consigo confiar em mais ninguém,raiva
+Sinto vontade de gritar até perder a voz,raiva
+A raiva está me dominando devagar,raiva
+Me sinto um idiota por acreditar,raiva
+A injustiça me destrói por dentro,raiva
+Estou sempre sendo deixado de lado,raiva
+A raiva que sinto é incontrolável,raiva
+Queria me vingar de tudo,raiva
+Estou cansado de ser manipulado,raiva
+Nada me acalma mais,raiva
+O que fizeram comigo é imperdoável,raiva
+Sinto ódio por cada mentira contada,raiva
+A raiva me tira o sono todas as noites,raiva
+Tudo parece querer me tirar do eixo,raiva
+Estou cercado de pessoas que me irritam,raiva
+O abuso de confiança me revolta,raiva
+A raiva cresce a cada minuto,raiva
+Estou preso em pensamentos de revolta,raiva
+Ninguém entende minha indignação,raiva
+A raiva é mais forte do que eu,raiva
+O desprezo virou rancor,raiva
+Não consigo esquecer o que me fizeram,raiva
+Sinto raiva até de mim mesmo,raiva
+O mundo parece querer me provocar,raiva
+A raiva tomou conta do meu peito,raiva
+A cada lembrança a raiva volta,raiva
+Cansei de pedir desculpas,raiva
+Estou sendo testado o tempo todo,raiva
+A raiva me faz perder o controle,raiva
+Me sinto desvalorizado,raiva
+O desrespeito ultrapassou os limites,raiva
+Estou cheio de situações mal resolvidas,raiva
+A falta de diálogo me enlouquece,raiva
+Me sinto cercado de provocação,raiva
+A paciência virou pó,raiva
+Cansei de engolir palavras,raiva
+A raiva me consome em silêncio,raiva
+Estou gritando por dentro,raiva
+O caos virou rotina,raiva
+Não suporto mais a mesma desculpa,raiva
+Sinto um frio na barriga constante,medo  
+Não sei o que vai acontecer amanhã,medo  
+Tenho medo do desconhecido,medo  
+A insegurança me paralisa,medo  
+O futuro parece incerto e assustador,medo  
+Sinto que algo ruim vai acontecer,medo  
+Não consigo dormir pensando no pior,medo  
+O medo me domina sem aviso,medo  
+Tenho receio de fracassar,medo  
+Sinto que não estou preparado,medo  
+O silêncio me assusta,medo  
+Sinto medo de perder quem amo,medo  
+Não confio nas pessoas ao meu redor,medo  
+Tenho medo de ser rejeitado,medo  
+A ansiedade me consome,medo  
+Sinto que estou sempre à beira do perigo,medo  
+O medo me impede de avançar,medo  
+Tenho medo do que os outros vão pensar,medo  
+O desconhecido me assusta demais,medo  
+Sinto um nó na garganta,medo  
+Tenho medo de errar,medo  
+Sinto que algo ruim vai acontecer,medo  
+Tenho medo de tomar a decisão errada,medo  
+O silêncio me faz tremer,medo  
+Não consigo controlar minha ansiedade,medo  
+Tenho medo de falhar mais uma vez,medo  
+A escuridão me assusta profundamente,medo  
+Sinto calafrios só de pensar no futuro,medo  
+Tenho medo de não conseguir mudar,medo  
+Minha mente não para de pensar no pior,medo  
+Me sinto observado mesmo estando sozinho,medo  
+Tenho medo de ser esquecido por todos,medo  
+O medo aperta meu peito sem avisar,medo  
+Não consigo confiar em ninguém,medo  
+Sinto que estou sendo seguido,medo  
+Tenho medo de perder o pouco que tenho,medo  
+O medo me impede de tentar,medo  
+Me sinto pequeno diante do desconhecido,medo  
+A cada noite minha insegurança cresce,medo  
+Tenho medo de ficar para sempre assim,medo  
+Sinto que ninguém entende o que sinto,medo  
+A solidão me apavora,medo  
+Tenho medo de ser deixado para trás,medo  
+O escuro traz pensamentos ruins,medo  
+Não consigo enfrentar meus próprios pensamentos,medo  
+Tenho medo de encarar meus erros,medo  
+O medo toma conta da minha respiração,medo  
+Sinto que tudo vai desabar,medo  
+Tenho medo do que as pessoas pensam de mim,medo  
+A sensação de impotência me destrói,medo  
+Tenho medo de nunca ser feliz,medo  
+Sinto meu coração acelerar sem motivo,medo  
+O mundo parece um lugar perigoso,medo  
+Tenho medo de abrir meu coração,medo  
+A cada passo fico mais tenso,medo  
+Tenho medo de que tudo acabe,medo  
+Sinto que algo me prende e não consigo sair,medo  
+O medo me faz duvidar de tudo,medo  
+Tenho medo de perder o controle das emoções,medo  
+Não sei como seguir em frente,medo  
+A incerteza me deixa paralisado,medo  
+Tenho medo de decepcionar as pessoas,medo  
+Sinto que estou sempre prestes a cair,medo  
+Tenho medo de confiar e me machucar,medo  
+O medo me impede de viver plenamente,medo  
+Meus pensamentos são cheios de preocupação,medo  
+Tenho medo de mostrar quem realmente sou,medo  
+Sinto que estou sozinho contra tudo,medo  
+O medo me acompanha em silêncio,medo  
+Tenho medo de mudanças repentinas,medo  
+Sinto que algo ruim está à espreita,medo  
+Tenho medo de nunca alcançar meus sonhos,medo  
+Não consigo me libertar desse sentimento,medo  
+O medo me faz evitar as pessoas,medo  
+Tenho medo de repetir os mesmos erros,medo  
+Sinto medo até de coisas simples,medo  
+Tenho medo de que ninguém me entenda,medo  
+A ansiedade me prende em mim mesmo,medo  
+Tenho medo de não conseguir sair dessa,medo  
+O medo tomou conta dos meus dias,medo  
+Tenho medo do julgamento constante,medo  
+Sinto que estou sempre fugindo de algo,medo  
+Tenho medo do que sou capaz de fazer,medo  
+A vida parece um campo minado,medo  
+Tenho medo de amar e ser ferido,medo  
+Sinto medo do tempo passar rápido demais,medo  
+Tenho medo de nunca encontrar paz,medo  
+Cada barulho me assusta,medo  
+Tenho medo de perder minha sanidade,medo  
+Sinto que estou cercado por perigos,medo  
+Tenho medo do que carrego dentro de mim,medo  
+O medo me impede de me expressar,medo  
+Tenho medo de me arrepender para sempre,medo  
+Sinto que não há saída,medo  
+Tenho medo de não conseguir ajudar quem amo,medo  
+O medo é um peso constante no meu peito,medo  
+Tenho medo de não ser suficiente,medo  
+O escuro me faz imaginar o pior,medo  
+Tenho medo de falhar com quem confia em mim,medo  
+Sinto medo de tudo que não posso controlar,medo  
+Tenho medo de perder meu caminho,medo  
+A insegurança me tira o sono,medo  
+Tenho medo de viver sem propósito,medo  
+Sinto medo de não conseguir mudar meu destino,medo  
+Tenho medo de ser deixado por quem amo,medo  
+O medo me isola das pessoas,medo  
+Tenho medo de nunca me libertar disso,medo  
+Sinto medo de decepcionar a mim mesmo,medo  
+Tenho medo do que o amanhã reserva,medo  
+O medo me faz hesitar em tudo,medo  
+Tenho medo de não saber lidar com a dor,medo  
+Sinto que o medo controla minha vida,medo  
+Tenho medo do escuro dentro de mim,medo  
+O medo me faz questionar tudo,medo  
+Tenho medo de mostrar minhas fraquezas,medo  
+Sinto medo do desconhecido que se aproxima,medo  
+Tenho medo de não ter forças para continuar,medo  
+O medo se esconde em cada pensamento,medo  
+Tenho medo de fracassar de novo,medo  
+Sinto que tudo pode desmoronar a qualquer momento,medo  
+Tenho medo de enfrentar as consequências,medo  
+O medo me impede de viver o presente,medo  
+Tenho medo de não ter controle sobre minha vida,medo  
+Sinto medo daquilo que não entendo,medo  
+Tenho medo de ficar preso em mim mesmo,medo  
+O medo me acompanha em todos os lugares,medo  
+Tenho medo de que todos me abandonem,medo  
+Sinto medo ao acordar todos os dias,medo  
+Tenho medo de não conseguir ser quem quero,medo  
+O medo toma conta do meu corpo,medo  
+Tenho medo do silêncio dos outros,medo  
+Sinto que o medo está dentro de mim,medo  
+Tenho medo de me arrepender por não tentar,medo  
+O medo me faz sentir fraco,medo  
+Tenho medo de encarar meu passado,medo  
+Sinto medo do que posso descobrir,medo  
+Tenho medo de falhar com quem amo,medo  
+O medo rouba minha paz,medo  
+Tenho medo de dizer o que sinto,medo  
+Sinto medo até mesmo da felicidade,medo  
+Tenho medo de ser deixado de lado,medo  
+O medo me faz sentir invisível,medo  
+Tenho medo de não ser lembrado,medo  
+Sinto medo de me perder de mim mesmo,medo  
+Tenho medo de que tudo isso não tenha sentido,medo  
+O medo me prende onde estou,medo  
+Tenho medo de nunca alcançar a liberdade,medo  
+Sinto medo das minhas próprias escolhas,medo  
+Tenho medo do que me tornei,medo  
+O medo me impede de olhar para frente,medo  
+Tenho medo de nunca encontrar meu lugar,medo  
+Sinto medo de perder tudo de novo,medo  
+Tenho medo de nunca ser compreendido,medo  
+O medo me faz calar quando quero gritar,medo  
+Tenho medo de ser quem realmente sou,medo  
+Sinto medo de viver uma mentira,medo  
+Tenho medo de não suportar a dor,medo  
+O medo me impede de confiar nas pessoas,medo  
+Tenho medo do que o tempo vai levar,medo  
+Sinto medo daquilo que amo desaparecer,medo  
+Tenho medo de acordar e tudo ter mudado,medo  
+O medo não me deixa respirar em paz,medo  
+Tenho medo de ser esquecido,medo  
+Sinto medo de olhar para dentro,medo  
+Tenho medo de não conseguir me levantar,medo  
+O medo me impede de tentar mais uma vez,medo  
+Tenho medo de nunca ser feliz de verdade,medo  
+Sinto medo de cair e não me levantar,medo  
+Tenho medo de viver no automático,medo  
+O medo me sufoca sem piedade,medo  
+Tenho medo de não ser quem esperam que eu seja,medo  
+O medo aparece quando mais preciso de coragem,medo  
+Sinto medo de confiar e ser machucado,medo  
+Tenho medo de falhar mesmo tentando tudo,medo  
+As noites parecem mais longas quando tenho medo,medo  
+O medo me faz esconder quem realmente sou,medo  
+Tenho medo de ser esquecido pelas pessoas que amo,medo  
+Sinto medo do tempo passar rápido demais,medo  
+O medo está presente até nos meus sonhos,medo  
+Tenho medo de nunca alcançar o que desejo,medo  
+Às vezes o medo me faz querer desistir,medo  
+Tenho medo de viver sem propósito,medo  
+Sinto medo de perder minha essência,medo  
+Tenho medo do silêncio que me cerca,medo  
+O medo me faz duvidar das minhas escolhas,medo  
+Tenho medo de olhar nos olhos da verdade,medo  
+Sinto medo de tudo que não entendo,medo  
+Tenho medo de que tudo seja em vão,medo  
+O medo me faz sentir pequeno em um mundo gigante,medo  
+Tenho medo de me abrir e não ser ouvido,medo  
+Sinto que o medo me impede de viver,medo  
+Tenho medo de enfrentar quem me faz mal,medo  
+O medo me prende mesmo quando estou livre,medo  
+Tenho medo de não me encontrar mais,medo  
+Sinto medo daquilo que carrego em silêncio,medo  
+Tenho medo de repetir os erros do passado,medo  
+O medo está sempre à espreita,medo  
+Tenho medo de que tudo que amo acabe,medo  
+Sinto medo de tomar decisões importantes,medo  
+Tenho medo do amanhã me surpreender de forma ruim,medo  
+O medo mora nos detalhes do dia a dia,medo  
+Tenho medo do vazio que cresce dentro de mim,medo  
+Sinto medo de sair e não voltar mais,medo  
+Tenho medo de não saber lidar com a perda,medo  
+O medo caminha ao meu lado todos os dias,medo  
+Tenho medo do que não posso mudar,medo  
+Sinto medo do julgamento das pessoas,medo  
+Tenho medo de nunca me libertar da culpa,medo  
+O medo é um visitante que nunca vai embora,medo  
+Tenho medo de perder meu valor,medo  
+Sinto medo de depender dos outros,medo  
+Tenho medo de demonstrar fraqueza,medo  
+O medo me paralisa quando preciso agir,medo  
+Tenho medo de ser frágil demais,medo  
+Sinto medo de ser traído outra vez,medo  
+Tenho medo de não conseguir me perdoar,medo  
+O medo me impede de arriscar,medo  
+Tenho medo de viver algo que não mereço,medo  
+Sinto medo de que tudo acabe de repente,medo  
+Tenho medo do que não posso prever,medo  
+O medo me faz duvidar até do que é certo,medo  
+Tenho medo de ficar para sempre onde estou,medo  
+Sinto medo de estar perdendo tempo,medo  
+Tenho medo de ser descartado,medo  
+O medo se esconde nos detalhes,medo  
+Tenho medo de me tornar alguém que não reconheço,medo  
+Sinto medo de não conseguir mais sorrir,medo  
+Tenho medo de que ninguém veja minha dor,medo  
+O medo se disfarça de prudência,medo  
+Tenho medo de ser invisível para quem amo,medo  
+Sinto medo de não ter forças para continuar,medo  
+Tenho medo de que o melhor já tenha passado,medo  
+O medo invade minha mente sem permissão,medo  
+Tenho medo do escuro dentro de mim,medo  
+Sinto medo de tudo parecer normal demais,medo  
+Tenho medo de que tudo seja uma ilusão,medo  
+O medo é meu companheiro constante,medo  
+Tenho medo de perder as pessoas aos poucos,medo  
+Sinto medo de errar onde mais me esforço,medo  
+Tenho medo de que nada faça sentido,medo  
+O medo me espreita quando estou sozinho,medo  
+Tenho medo de não encontrar meu caminho,medo  
+Sinto medo de abrir mão do que gosto,medo  
+Tenho medo de que as coisas não melhorem,medo  
+O medo ocupa o espaço da esperança,medo  
+Tenho medo de ser a causa dos meus fracassos,medo  
+Sinto medo de prometer e não cumprir,medo  
+Tenho medo do que as pessoas esperam de mim,medo  
+O medo me impede de ser quem sou,medo  
+Tenho medo de ser substituído,medo  
+Sinto medo do vazio que fica quando tudo acaba,medo  
+Tenho medo de tentar e não conseguir,medo  
+O medo é um grito calado,medo  
+Tenho medo de que tudo o que sinto não seja real,medo  
+Sinto medo de que ninguém se importe,medo  
+Tenho medo de deixar passar o que importa,medo  
+O medo me rouba a confiança,medo  
+Tenho medo do que posso descobrir em mim,medo  
+Sinto medo de perder a razão,medo  
+Tenho medo do fim,medo  
+O medo se alimenta da minha insegurança,medo  
+Tenho medo de ser apenas mais um,medo  
+Sinto medo do que virá depois,medo  
+Tenho medo de não conseguir lidar com o sucesso,medo  
+O medo de tentar me prende onde estou,medo  
+Tenho medo da solidão disfarçada de companhia,medo  
+Sinto medo de aceitar o que não mereço,medo  
+Tenho medo de perder tudo de novo,medo  
+O medo me impede de respirar fundo,medo  
+Tenho medo de confiar e me arrepender,medo  
+Sinto medo de não fazer diferença,medo  
+Tenho medo de cair no mesmo erro,medo  
+O medo de falhar me impede de começar,medo  
+Tenho medo de perder o controle das coisas simples,medo  
+Sinto medo de ser o problema,medo  
+Tenho medo de que o tempo leve tudo,medo  
+O medo distorce minhas decisões,medo  
+Tenho medo de não saber reagir,medo  
+Sinto medo de que tudo o que fiz não valha nada,medo  
+Tenho medo de nunca ser compreendido,medo  
+O medo me coloca limites invisíveis,medo  
+Tenho medo de me mostrar vulnerável,medo  
+Sinto medo de não estar fazendo o certo,medo  
+Tenho medo de nunca alcançar a paz,medo  
+O medo é uma sombra que me persegue,medo  
+Tenho medo de que a verdade doa demais,medo  
+Sinto medo de não merecer o amor,medo  
+Tenho medo de encarar meus sentimentos,medo  
+O medo me faz escolher o mais fácil,medo  
+Tenho medo de viver no passado,medo  
+Sinto medo de estar sempre fingindo,medo  
+Tenho medo de decepcionar quem confia em mim,medo  
+O medo me rouba a espontaneidade,medo  
+Tenho medo de ser esquecido pelo mundo,medo  
+Sinto medo de desistir sem lutar,medo  
+Tenho medo de não conseguir começar de novo,medo  
+O medo me faz calar quando quero gritar,medo  
+Tenho medo de admitir que estou mal,medo  
+Sinto medo de nunca me sentir completo,medo  
+Tenho medo de que todos se afastem,medo  
+O medo impede minhas melhores versões,medo  
+Tenho medo de não conseguir cuidar de mim,medo  
+Sinto medo de não estar vivendo de verdade,medo  
+Tenho medo do silêncio após a briga,medo  
+O medo transforma meus dias em alerta constante,medo  
+Tenho medo de olhar para dentro e não me reconhecer,medo  
+Sinto medo da tristeza que acompanha o medo,medo  
+Tenho medo de que nada mude,medo  
+O medo me faz repetir o que jurei evitar,medo  
+Tenho medo de depender de alguém,medo  
+Sinto medo de ser esquecido por mim mesmo,medo  
+Tenho medo da dor que ainda virá,medo  
+O amor ilumina meus dias,amor  
+Sinto meu coração cheio de amor,amor  
+O sorriso dela me enche de alegria,amor  
+Cada momento ao seu lado é especial,amor  
+O amor me faz sentir vivo,amor  
+Seu abraço é meu lugar seguro,amor  
+A paixão que sinto é imensa,amor  
+Amar é minha maior felicidade,amor  
+Seu olhar me conquista sempre,amor  
+O amor transforma tudo ao redor,amor  
+Sinto que encontrei minha metade,amor  
+O carinho dela me acalma,amor  
+O amor nos fortalece a cada dia,amor  
+Seu beijo é meu refúgio,amor  
+O amor é a força que me move,amor  
+Estar com ela é meu maior presente,amor  
+O amor nos une mesmo à distância,amor  
+Sinto que o amor é infinito,amor  
+Seu toque me faz flutuar,amor  
+O amor me dá esperança,amor  
+Cada gesto dela é puro amor,amor  
+O amor cura todas as feridas,amor  
+Sinto uma paz enorme ao seu lado,amor  
+O amor é minha luz na escuridão,amor  
+Seu sorriso é meu motivo,amor  
+Amar é a melhor sensação do mundo,amor  
+O amor é um presente divino,amor  
+Sinto meu coração bater por ela,amor  
+O amor é o que me mantém forte,amor  
+Estar juntos é a minha felicidade,amor  
+Seu abraço me conforta,amor  
+O amor nos faz crescer juntos,amor  
+Sinto que nosso amor é eterno,amor  
+O amor preenche todos os vazios,amor  
+Cada dia ao seu lado é um sonho,amor  
+O amor é a resposta para tudo,amor  
+Sinto que ela é minha alma gêmea,amor  
+O amor nos dá coragem para seguir,amor  
+Seu olhar diz tudo sem palavras,amor  
+O amor é minha inspiração diária,amor  
+Estar com ela me faz melhor,amor  
+O amor é a chave do meu coração,amor  
+Sinto seu amor em cada gesto,amor  
+O amor me transforma para melhor,amor  
+Cada momento com ela é único,amor  
+O amor é o meu abrigo seguro,amor  
+Sinto seu perfume no ar,amor  
+O amor é um presente que agradeço,amor  
+Seu carinho me faz feliz,amor  
+O amor é a luz que guia meus passos,amor  
+Sinto que o amor é minha essência,amor  
+Estar ao seu lado é a paz que procuro,amor  
+O amor é um laço que nunca se quebra,amor  
+Sinto seu calor mesmo à distância,amor  
+O amor é a música do meu coração,amor  
+Cada sorriso dela me conquista,amor  
+O amor é o motivo do meu viver,amor  
+Sinto que somos feitos um para o outro,amor  
+O amor nos ensina a perdoar,amor  
+Seu amor é meu porto seguro,amor  
+O amor é a essência da minha vida,amor  
+Sinto que o amor cura tudo,amor  
+Estar com ela é um sonho realizado,amor  
+O amor é a força que me sustenta,amor  
+Seu beijo é doce como mel,amor  
+O amor é a minha maior riqueza,amor  
+Sinto que ela é minha luz,amor  
+O amor nos une em qualquer distância,amor  
+Cada palavra dela é um afago,amor  
+O amor é minha felicidade completa,amor  
+Sinto seu coração bater junto ao meu,amor  
+O amor é o que me faz sorrir,amor  
+Estar com ela é minha melhor escolha,amor  
+O amor é a minha paz interior,amor  
+Sinto que o amor é nossa essência,amor  
+Seu abraço me faz esquecer o mundo,amor  
+O amor é um caminho de alegria,amor  
+Sinto que nosso amor é verdadeiro,amor  
+O amor é a razão do meu sorriso,amor  
+Cada momento juntos é inesquecível,amor  
+O amor é um sonho que vivo,amor  
+Sinto que ela é minha eterna paixão,amor  
+O amor nos faz mais fortes,amor  
+Seu olhar me enche de esperança,amor  
+O amor é a base da nossa história,amor  
+Sinto seu amor em cada abraço,amor  
+Estar com ela me completa,amor  
+O amor é a luz que nunca se apaga,amor  
+Sinto que o amor é infinito entre nós,amor  
+Seu sorriso é meu sol,amor  
+O amor é um sentimento puro e verdadeiro,amor  
+Sinto que ela é meu tudo,amor  
+O amor nos guia para a felicidade,amor  
+Cada toque dela me emociona,amor  
+O amor é meu maior tesouro,amor  
+Sinto seu carinho mesmo longe,amor  
+Estar com ela é viver um sonho,amor  
+O amor é a chama que aquece meu coração,amor  
+Sinto que nosso amor é invencível,amor  
+Seu beijo é meu melhor presente,amor  
+O amor é o motivo do meu viver,amor  
+Sinto que ela é minha razão de sorrir,amor  
+O amor nos dá forças para vencer,amor  
+Cada palavra dela é um poema,amor  
+O amor é o elo que nos une,amor  
+Sinto seu amor em cada gesto,amor  
+Estar com ela é minha felicidade,amor  
+O amor é o caminho para a paz,amor  
+Sinto que o amor nos transforma,amor  
+Seu abraço é meu lar,amor  
+O amor é a melhor coisa da vida,amor  
+Sinto que ela é minha alma gêmea,amor  
+O amor nos faz sonhar juntos,amor  
+Cada momento com ela é mágico,amor  
+O amor é a luz que ilumina minha vida,amor  
+Sinto seu sorriso como um raio de sol,amor  
+Estar com ela é a minha alegria,amor  
+O amor é a base do nosso mundo,amor  
+Sinto que nosso amor é eterno,amor  
+Seu amor me dá forças para seguir,amor  
+O amor é a razão do meu ser,amor  
+Sinto que ela é minha felicidade,amor  
+O amor nos une para sempre,amor  
+Cada gesto dela é um ato de amor,amor  
+O amor é minha maior inspiração,amor  
+Sinto seu calor em cada abraço,amor  
+Estar com ela é meu maior sonho,amor  
+O amor é a essência do meu coração,amor  
+Sinto que nosso amor é infinito,amor  
+Seu beijo é meu refúgio,amor  
+O amor é a luz que nunca se apaga,amor  
+Sinto que ela é minha paz,amor  
+O amor nos guia na escuridão,amor  
+Cada momento com ela é um presente,amor  
+O amor é a força que nos mantém unidos,amor  
+Sinto seu amor em cada instante,amor  
+Estar com ela é viver a felicidade,amor  
+O amor é a base do meu mundo,amor  
+Sinto que nosso amor é verdadeiro,amor  
+Seu abraço é meu abrigo,amor  
+O amor é a razão da minha existência,amor  
+Sinto que ela é minha eterna paixão,amor  
+O amor nos faz sorrir mesmo nos dias difíceis,amor  
+Cada palavra dela é doce como mel,amor  
+O amor é minha maior bênção,amor  
+Sinto seu sorriso como um raio de luz,amor  
+Estar com ela é meu maior presente,amor  
+O amor é a chama que nunca se apaga,amor  
+Sinto que nosso amor é eterno e puro,amor  
+Seu amor é meu maior tesouro,amor  
+O amor é a força que me move,amor  
+Sinto que ela é minha vida,amor  
+O amor nos une além do tempo,amor  
+Cada gesto dela é puro carinho,amor  
+O amor é a luz que ilumina meu caminho,amor  
+Sinto seu abraço como um aconchego,amor  
+Estar com ela é a minha felicidade completa,amor  
+O amor é a base de tudo que sou,amor  
+Sinto que nosso amor é infinito e verdadeiro,amor  
+Seu sorriso me traz paz,amor  
+O amor que sinto por você cresce a cada dia,amor  
+Estar com você é como viver um sonho,amor  
+Seu carinho me faz esquecer do mundo,amor  
+Amar você é minha maior alegria,amor  
+Com você a vida tem mais cor,amor  
+O tempo para quando estou ao seu lado,amor  
+Seu toque acalma meu coração,amor  
+Te amar é fácil como respirar,amor  
+Cada momento ao seu lado é precioso,amor  
+O amor mora no seu olhar,amor  
+Você é meu porto seguro,amor  
+Me sinto completo quando estou com você,amor  
+Seu abraço é onde eu quero viver,amor  
+Nada é mais verdadeiro do que o que sinto por você,amor  
+Com você aprendi o que é amar de verdade,amor  
+Você ilumina meus dias,amor  
+Nosso amor é a melhor parte da minha vida,amor  
+Você é o motivo do meu sorriso,amor  
+Meu coração bate por você,amor  
+Amar você me faz ser uma pessoa melhor,amor  
+Seu amor me transforma,amor  
+Meu lugar favorito é ao seu lado,amor  
+A vida é mais leve com você por perto,amor  
+Te amar é a minha missão diária,amor  
+Você é minha paz em meio ao caos,amor  
+Sinto que nasci para amar você,amor  
+Tudo faz sentido quando você está comigo,amor  
+Você me faz acreditar no amor todos os dias,amor  
+Nada se compara ao que sinto por você,amor  
+Seu amor é meu bem mais precioso,amor  
+Quero envelhecer ao seu lado,amor  
+Cada detalhe seu me encanta,amor  
+O amor que temos é único,amor  
+Você é o meu sonho realizado,amor  
+Quando estou com você me sinto em casa,amor  
+Seu beijo é meu combustível,amor  
+Você me completa como ninguém,amor  
+Nosso amor é eterno enquanto vivermos,amor  
+Com você eu posso ser eu mesmo,amor  
+Você é meu melhor destino,amor  
+Amar você é meu maior orgulho,amor  
+Sua presença muda tudo para melhor,amor  
+Você é a luz dos meus dias escuros,amor  
+A cada olhar seu eu me apaixono mais,amor  
+Não existe lugar melhor do que seus braços,amor  
+Você é tudo que eu sempre procurei,amor  
+Com você até o silêncio tem significado,amor  
+Seu amor me dá forças para enfrentar o mundo,amor  
+A felicidade tem seu nome,amor  
+Meu coração escolheu você,amor  
+Você é meu lar em qualquer lugar,amor  
+Te amar é viver o melhor da vida,amor  
+Cada gesto seu me conquista,amor  
+Nosso amor é feito de detalhes que só nós entendemos,amor  
+Você é meu sol nos dias nublados,amor  
+Nada me faz mais feliz do que estar com você,amor  
+A melhor parte do meu dia é estar com você,amor  
+Com você descobri o verdadeiro significado do amor,amor  
+Seu amor é a melhor coisa que me aconteceu,amor  
+Te amar é o que me move todos os dias,amor  
+Você é meu verso favorito,amor  
+A vida ganhou mais sentido com você,amor  
+Seu amor é o que me mantém de pé,amor  
+Estar com você é um presente divino,amor  
+Você faz o tempo parar só com um olhar,amor  
+O amor é simples quando estou com você,amor  
+Você me faz querer ser melhor,amor  
+Cada lembrança ao seu lado é inesquecível,amor  
+Te amar é minha certeza diária,amor  
+Você é meu abrigo nos dias difíceis,amor  
+Meu coração encontrou sua metade em você,amor  
+Não sei mais viver sem seu amor,amor  
+Tudo que quero está no seu sorriso,amor  
+Seu amor me deu um novo sentido para viver,amor  
+Você é minha escolha todos os dias,amor  
+Nosso amor é feito de cumplicidade e carinho,amor  
+Você é minha inspiração para sorrir,amor  
+Seu jeito me fascina,amor  
+O mundo é mais bonito com você,amor  
+Você é minha paz e meu caos,amor  
+Você me faz sentir que tudo é possível,amor  
+O amor é mais doce com você,amor  
+Seu toque me arrepia,amor  
+Amar você é leve como o vento,amor  
+Você é a melhor parte de mim,amor  
+Nosso amor é a melhor história que já vivi,amor  
+Com você aprendi que amar é cuidar,amor  
+Você me faz sentir amado todos os dias,amor  
+O amor mora na sua voz,amor  
+Sua risada é música para meu coração,amor  
+Te amar é meu refúgio seguro,amor  
+Você é meu destino preferido,amor  
+Você é a poesia que faltava na minha vida,amor  
+Me perco no seu olhar e me encontro no seu amor,amor  
+Seu amor me acolhe,amor  
+Com você cada dia é especial,amor  
+Não existe tempo ruim com você,amor  
+Você é minha calmaria,amor  
+Te amar é meu maior presente,amor  
+Nosso amor é puro como um amanhecer,amor  
+Seu amor é meu norte,amor  
+Cada momento ao seu lado é inesquecível,amor  
+Você me faz querer pausar o tempo,amor  
+Sua presença é conforto para minha alma,amor  
+Você é meu início meio e fim,amor  
+Nada é mais forte do que o que sinto por você,amor  
+Você é minha sorte,amor  
+Te amar é minha rotina favorita,amor  
+O amor é mais bonito quando é com você,amor  
+Com você tudo floresce,amor  
+Você me ensina sobre o amor todos os dias,amor  
+Você é minha certeza em um mundo de dúvidas,amor  
+Seu amor é meu abrigo,amor  
+Você me dá motivos para acreditar,amor  
+Você é a parte que faltava em mim,amor  
+Seu amor me faz transbordar,amor  
+Com você até o impossível parece fácil,amor  
+Seu amor me guia,amor  
+Você é minha razão de agradecer,amor  
+Amar você é o meu melhor hábito,amor  
+Você acalma minhas tempestades,amor  
+O tempo passa devagar quando estou com você,amor  
+Seu jeito me desmonta e me reconstrói,amor  
+Você me faz querer parar o mundo só pra te olhar,amor  
+Com você descobri o que é ser inteiro,amor  
+Te amar me fez entender a beleza da vida,amor  
+Você é minha âncora e meu vento,amor  
+Você é a brisa nos meus dias quentes,amor  
+Estar com você é como ouvir minha música favorita,amor  
+Seu amor é meu equilíbrio,amor  
+Você é a razão da minha esperança,amor  
+Com você não existe solidão,amor  
+Seu amor me dá asas,amor  
+Você me faz ver o mundo com outros olhos,amor  
+Te amar é minha liberdade,amor  
+Você me faz esquecer todos os medos,amor  
+Amar você é a coisa mais natural do mundo,amor  
+Seu sorriso tem o poder de curar meus dias,amor  
+Você me faz acreditar em finais felizes,amor  
+Com você tudo é mais leve,amor  
+Seu carinho é meu combustível diário,amor  
+Você é meu hoje e meu sempre,amor  
+Seu amor é o lar que meu coração escolheu,amor  
+Estar com você é onde eu pertenço,amor  
+Te amar me completa,amor  
+Você é meu melhor pensamento,amor  
+Seu amor é meu lugar de paz,amor  
+Tudo em você me encanta,amor  
+Te amar é viver em poesia,amor  
+Você é a razão da minha felicidade,amor  
+Seu toque acende meu coração,amor  
+Te encontrar mudou minha vida,amor  
+Nosso amor é maior que qualquer medo,amor  
+Você é meu ponto de partida e chegada,amor  
+Seu amor me trouxe de volta à vida,amor  
+Estar com você é um milagre diário,amor  
+Você me fez acreditar no para sempre,amor  
+Com você tudo se encaixa,amor  
+Seu jeito me faz derreter,amor  
+Te amar é minha melhor escolha,amor  
+Nada é mais certo do que meu amor por você,amor  
+Você é a minha verdade mais bonita,amor  
+Seu amor é meu silêncio em paz,amor  
+Você é a resposta que eu sempre busquei,amor  
+Te amar me fez crescer,amor  
+Com você encontrei meu lugar no mundo,amor  
+Seu sorriso é meu lar,amor  
+Você é a luz no fim do meu túnel,amor  
+Nosso amor é a melhor coisa que já vivi,amor  
+Você me acolhe com o olhar,amor  
+Seu amor é o que me mantém de pé,amor  
+Te amar é a forma mais pura de viver,amor  
+Você me ensina a amar com calma,amor  
+Com você o tempo voa e vale a pena,amor  
+Seu jeito me encanta todos os dias,amor  
+Você é minha direção certa,amor  
+Te amar é tão natural quanto respirar,amor  
+Seu amor é a resposta de todas as perguntas,amor  
+Com você aprendi que amor também é amizade,amor  
+Você é meu laço eterno,amor  
+Seu abraço é onde me encontro,amor  
+Você é meu descanso em dias difíceis,amor  
+Amar você é o que faz minha vida ter sentido,amor  
+Seu olhar é o meu melhor refúgio,amor  
+Você é a paz que eu sempre procurei,amor  
+Te amar me dá forças para ser quem sou,amor  
+Seu amor me cura em silêncio,amor  
+Você é a calmaria no meio do caos,amor  
+Nosso amor é a minha certeza,amor  
+Você é meu sonho acordado,amor  
+Seu carinho me devolve os sorrisos,amor  
+Você é minha parte favorita do dia,amor  
+Amar você é leveza e verdade,amor  
+Seu amor é a bússola do meu coração,amor  
+Você me mostra o que é amar com leveza,amor  
